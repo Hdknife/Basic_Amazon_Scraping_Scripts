@@ -1,0 +1,268 @@
+2024-10-09 15:29:32,477 - INFO - Scraping process started for search term: Laptop, Pages: 50
+2024-10-09 15:29:32,489 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=1
+2024-10-09 15:29:32,505 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=2
+2024-10-09 15:29:32,506 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=3
+2024-10-09 15:29:32,506 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=4
+2024-10-09 15:29:32,507 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=5
+2024-10-09 15:29:32,508 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=6
+2024-10-09 15:29:32,508 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=7
+2024-10-09 15:29:32,510 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=8
+2024-10-09 15:29:32,512 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=9
+2024-10-09 15:29:32,513 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=10
+2024-10-09 15:29:32,513 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=11
+2024-10-09 15:29:32,514 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=12
+2024-10-09 15:29:32,514 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=13
+2024-10-09 15:29:32,515 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=14
+2024-10-09 15:29:32,516 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=15
+2024-10-09 15:29:32,517 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=16
+2024-10-09 15:29:32,517 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=17
+2024-10-09 15:29:32,518 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=18
+2024-10-09 15:29:32,519 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=19
+2024-10-09 15:29:32,519 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=20
+2024-10-09 15:29:32,520 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=21
+2024-10-09 15:29:32,520 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=22
+2024-10-09 15:29:32,521 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=23
+2024-10-09 15:29:32,521 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=24
+2024-10-09 15:29:32,522 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=25
+2024-10-09 15:29:32,523 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=26
+2024-10-09 15:29:32,524 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=27
+2024-10-09 15:29:32,525 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=28
+2024-10-09 15:29:32,526 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=29
+2024-10-09 15:29:32,526 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=30
+2024-10-09 15:29:32,527 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=31
+2024-10-09 15:29:32,527 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=32
+2024-10-09 15:29:32,528 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=33
+2024-10-09 15:29:32,529 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=34
+2024-10-09 15:29:32,529 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=35
+2024-10-09 15:29:32,530 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=36
+2024-10-09 15:29:32,531 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=37
+2024-10-09 15:29:32,532 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=38
+2024-10-09 15:29:32,533 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=39
+2024-10-09 15:29:32,534 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=40
+2024-10-09 15:29:32,534 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=41
+2024-10-09 15:29:32,535 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=42
+2024-10-09 15:29:32,535 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=43
+2024-10-09 15:29:32,536 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=44
+2024-10-09 15:29:32,536 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=45
+2024-10-09 15:29:32,537 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=46
+2024-10-09 15:29:32,538 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=47
+2024-10-09 15:29:32,541 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=48
+2024-10-09 15:29:32,542 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=49
+2024-10-09 15:29:33,423 - ERROR - Client error for URL https://www.amazon.in/s?k=Laptop&page=20: Invalid response: 503
+2024-10-09 15:29:43,889 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=37
+2024-10-09 15:29:44,181 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=35
+2024-10-09 15:29:44,595 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=5
+2024-10-09 15:29:45,053 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=29
+2024-10-09 15:29:45,408 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=36
+2024-10-09 15:29:45,915 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=21
+2024-10-09 15:29:46,351 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=27
+2024-10-09 15:29:46,784 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=2
+2024-10-09 15:29:47,164 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=32
+2024-10-09 15:29:47,653 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=3
+2024-10-09 15:29:47,991 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=9
+2024-10-09 15:29:48,466 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=1
+2024-10-09 15:29:48,724 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=40
+2024-10-09 15:29:49,061 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=49
+2024-10-09 15:29:49,318 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=23
+2024-10-09 15:29:49,658 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=19
+2024-10-09 15:29:50,236 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=45
+2024-10-09 15:29:50,586 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=24
+2024-10-09 15:29:51,137 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=10
+2024-10-09 15:29:51,578 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=7
+2024-10-09 15:29:52,040 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=39
+2024-10-09 15:29:52,602 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=28
+2024-10-09 15:29:52,883 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=16
+2024-10-09 15:29:53,533 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=14
+2024-10-09 15:29:53,899 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=44
+2024-10-09 15:29:54,159 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=48
+2024-10-09 15:29:54,659 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=6
+2024-10-09 15:29:55,135 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=11
+2024-10-09 15:29:55,534 - ERROR - Unexpected error occurred for URL https://www.amazon.in/s?k=Laptop&page=17: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 64, in session
+    await self.get_html(content)  # Pass the content to get_html
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 47, in get_html
+    discount = tag.find('span', class_="a-letter-space").text
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-10-09 15:29:56,050 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=4
+2024-10-09 15:29:56,479 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=18
+2024-10-09 15:29:56,879 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=30
+2024-10-09 15:29:57,279 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=25
+2024-10-09 15:29:57,701 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=8
+2024-10-09 15:29:58,194 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=26
+2024-10-09 15:29:58,600 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=31
+2024-10-09 15:29:59,169 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=15
+2024-10-09 15:29:59,527 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=43
+2024-10-09 15:29:59,872 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=38
+2024-10-09 15:30:00,446 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=34
+2024-10-09 15:30:00,768 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=22
+2024-10-09 15:30:01,256 - ERROR - Unexpected error occurred for URL https://www.amazon.in/s?k=Laptop&page=13: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 64, in session
+    await self.get_html(content)  # Pass the content to get_html
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 47, in get_html
+    discount = tag.find('span', class_="a-letter-space").text
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-10-09 15:30:01,573 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=46
+2024-10-09 15:30:01,842 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=41
+2024-10-09 15:30:02,452 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=33
+2024-10-09 15:30:02,746 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=47
+2024-10-09 15:30:03,213 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=42
+2024-10-09 15:30:03,514 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=12
+2024-10-09 15:30:03,529 - INFO - Scraping process completed. 
+**Status**
+
+Search : Laptop
+pages : Total number of pages 50
+failed : Total Failed pages 1
+database : Total number of records 544
+Excution Time : 31.05133581161499
+
+**Excution Sucessful '\__-_/'**
+2024-10-09 15:32:25,463 - INFO - Scraping process started for search term: Laptop, Pages: 50
+2024-10-09 15:32:25,464 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=1
+2024-10-09 15:32:25,465 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=2
+2024-10-09 15:32:25,465 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=3
+2024-10-09 15:32:25,466 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=4
+2024-10-09 15:32:25,466 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=5
+2024-10-09 15:32:25,467 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=6
+2024-10-09 15:32:25,467 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=7
+2024-10-09 15:32:25,467 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=8
+2024-10-09 15:32:25,468 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=9
+2024-10-09 15:32:25,468 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=10
+2024-10-09 15:32:25,469 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=11
+2024-10-09 15:32:25,469 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=12
+2024-10-09 15:32:25,469 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=13
+2024-10-09 15:32:25,470 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=14
+2024-10-09 15:32:25,470 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=15
+2024-10-09 15:32:25,470 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=16
+2024-10-09 15:32:25,471 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=17
+2024-10-09 15:32:25,471 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=18
+2024-10-09 15:32:25,471 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=19
+2024-10-09 15:32:25,472 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=20
+2024-10-09 15:32:25,472 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=21
+2024-10-09 15:32:25,472 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=22
+2024-10-09 15:32:25,472 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=23
+2024-10-09 15:32:25,473 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=24
+2024-10-09 15:32:25,473 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=25
+2024-10-09 15:32:25,473 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=26
+2024-10-09 15:32:25,474 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=27
+2024-10-09 15:32:25,474 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=28
+2024-10-09 15:32:25,475 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=29
+2024-10-09 15:32:25,475 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=30
+2024-10-09 15:32:25,475 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=31
+2024-10-09 15:32:25,476 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=32
+2024-10-09 15:32:25,476 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=33
+2024-10-09 15:32:25,476 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=34
+2024-10-09 15:32:25,477 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=35
+2024-10-09 15:32:25,477 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=36
+2024-10-09 15:32:25,477 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=37
+2024-10-09 15:32:25,478 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=38
+2024-10-09 15:32:25,478 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=39
+2024-10-09 15:32:25,478 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=40
+2024-10-09 15:32:25,479 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=41
+2024-10-09 15:32:25,479 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=42
+2024-10-09 15:32:25,479 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=43
+2024-10-09 15:32:25,480 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=44
+2024-10-09 15:32:25,480 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=45
+2024-10-09 15:32:25,480 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=46
+2024-10-09 15:32:25,481 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=47
+2024-10-09 15:32:25,482 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=48
+2024-10-09 15:32:25,482 - INFO - Starting request for URL: https://www.amazon.in/s?k=Laptop&page=49
+2024-10-09 15:32:27,018 - ERROR - Client error for URL https://www.amazon.in/s?k=Laptop&page=12: Invalid response: 503
+2024-10-09 15:32:27,311 - ERROR - Client error for URL https://www.amazon.in/s?k=Laptop&page=43: Invalid response: 503
+2024-10-09 15:32:33,863 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=1
+2024-10-09 15:32:34,501 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=45
+2024-10-09 15:32:35,174 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=7
+2024-10-09 15:32:35,681 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=16
+2024-10-09 15:32:35,891 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=27
+2024-10-09 15:32:36,240 - ERROR - Unexpected error occurred for URL https://www.amazon.in/s?k=Laptop&page=13: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 64, in session
+    await self.get_html(content)  # Pass the content to get_html
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 47, in get_html
+    discount = tag.find('span', class_="a-letter-space").text
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-10-09 15:32:36,937 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=18
+2024-10-09 15:32:37,149 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=39
+2024-10-09 15:32:37,727 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=17
+2024-10-09 15:32:38,022 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=36
+2024-10-09 15:32:38,325 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=8
+2024-10-09 15:32:38,678 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=24
+2024-10-09 15:32:38,869 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=49
+2024-10-09 15:32:39,222 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=30
+2024-10-09 15:32:39,733 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=14
+2024-10-09 15:32:40,236 - ERROR - Unexpected error occurred for URL https://www.amazon.in/s?k=Laptop&page=10: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 64, in session
+    await self.get_html(content)  # Pass the content to get_html
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 47, in get_html
+    discount = tag.find('span', class_="a-letter-space").text
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-10-09 15:32:40,791 - ERROR - Unexpected error occurred for URL https://www.amazon.in/s?k=Laptop&page=9: 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 64, in session
+    await self.get_html(content)  # Pass the content to get_html
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Abhishek\Basic_Amazon_Script\amazon.py", line 47, in get_html
+    discount = tag.find('span', class_="a-letter-space").text
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-10-09 15:32:41,059 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=33
+2024-10-09 15:32:41,446 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=15
+2024-10-09 15:32:41,744 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=23
+2024-10-09 15:32:42,023 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=31
+2024-10-09 15:32:42,458 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=5
+2024-10-09 15:32:42,794 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=34
+2024-10-09 15:32:43,016 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=29
+2024-10-09 15:32:43,421 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=22
+2024-10-09 15:32:43,676 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=35
+2024-10-09 15:32:43,966 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=32
+2024-10-09 15:32:44,399 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=25
+2024-10-09 15:32:44,662 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=46
+2024-10-09 15:32:45,156 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=26
+2024-10-09 15:32:45,471 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=28
+2024-10-09 15:32:45,747 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=11
+2024-10-09 15:32:46,242 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=21
+2024-10-09 15:32:46,591 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=19
+2024-10-09 15:32:47,048 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=37
+2024-10-09 15:32:47,411 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=3
+2024-10-09 15:32:47,745 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=38
+2024-10-09 15:32:48,201 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=44
+2024-10-09 15:32:48,474 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=20
+2024-10-09 15:32:49,039 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=6
+2024-10-09 15:32:49,362 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=48
+2024-10-09 15:32:49,833 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=40
+2024-10-09 15:32:50,136 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=42
+2024-10-09 15:32:50,347 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=47
+2024-10-09 15:32:50,702 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=41
+2024-10-09 15:32:51,238 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=2
+2024-10-09 15:32:51,682 - INFO - Successfully scraped URL: https://www.amazon.in/s?k=Laptop&page=4
+2024-10-09 15:32:51,697 - INFO - Scraping process completed. 
+**Status**
+
+Search : Laptop
+pages : Total number of pages 50
+failed : Total Failed pages 2
+database : Total number of records 504
+Excution Time : 26.23401117324829
+
+**Excution Sucessful '\__-_/'**
+2024-10-09 15:33:00,888 - INFO - Summary: 
+**Status**
+
+Search : Laptop
+pages : Total number of pages 50
+failed : Total Failed pages 2
+database : Total number of records 504
+Excution Time : 26.23401117324829
+
+**Excution Sucessful '\__-_/'**
